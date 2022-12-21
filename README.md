@@ -51,7 +51,7 @@ Azure Healthbot Test in webchat:
 ![test in webchat4](https://user-images.githubusercontent.com/120355106/208875642-e9505826-659b-4cee-a491-daeb3675e619.png)
 
 
-Screen Shots:
+# Project Screen Shots:
 
 HOMEPAGE:
 
