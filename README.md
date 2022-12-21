@@ -26,6 +26,31 @@ Github Project Link:https://kavyasrinaidu.github.io/Fitline-FITLINE-Happines-is-
 Azure Project Link:https://delightful-flower-063abfd10.2.azurestaticapps.net
 
 
+# Azure ScreenShots:Resources,Static Webapp,Health bot:
+
+Azure Resources:
+![Azure resources page](https://user-images.githubusercontent.com/120355106/208875170-4d8bc7c7-53a0-4a36-8802-89cef0caa0c1.png)
+
+Azure Static Webapp:
+![Azure static webapp](https://user-images.githubusercontent.com/120355106/208875223-a8213317-d164-4cd4-82c8-919f47b81f81.png)
+
+Azure Healthbot:
+![Azure Healthbot](https://user-images.githubusercontent.com/120355106/208875284-9c944520-7e7f-4b24-b084-c0322c5111fb.png)
+
+Azure Healthbot scenario management:
+![Azure healthbot Scenario management](https://user-images.githubusercontent.com/120355106/208875371-508d068e-3691-4404-a15b-3be964596db5.png)
+
+Azure Healthbot Test in webchat:
+
+![test in webchat1](https://user-images.githubusercontent.com/120355106/208875505-66083069-6eca-4c5f-bee0-3480c8fa0aaa.png)
+
+![test in webchat2](https://user-images.githubusercontent.com/120355106/208875556-af4ae1f0-d021-41d7-92dd-4e54fd3922e8.png)
+
+![test in webchat3](https://user-images.githubusercontent.com/120355106/208875601-2fe73e8c-7ea9-4bbd-80cc-63f4d2714c39.png)
+
+![test in webchat4](https://user-images.githubusercontent.com/120355106/208875642-e9505826-659b-4cee-a491-daeb3675e619.png)
+
+
 Screen Shots:
 
 HOMEPAGE:
@@ -40,10 +65,6 @@ CONTACT US PAGE:
 
 ![CONTACT US](https://user-images.githubusercontent.com/120355106/207250157-addd7abd-88e8-4b12-b060-a2972eebd02d.png)
 
-FITLINE BOT:
-
-![FITLINEBOT](https://user-images.githubusercontent.com/120355106/207250162-4f76f053-dfab-4806-bc65-18e175e47670.png)
-
 NUTIRTUTION PAGE:
 
 ![NUTIRTUION PAGE](https://user-images.githubusercontent.com/120355106/207250176-c9cbffdc-9d51-465e-b9cb-3f2085c6487a.png)
@@ -51,4 +72,21 @@ NUTIRTUTION PAGE:
 BEST DIET:
 
 ![BEST DIETS](https://user-images.githubusercontent.com/120355106/207250178-7a6d941d-3d3c-4d84-875a-59ce03840b1b.png)
+
+FITLINE BOT (healthbot) Functionality:
+
+![FITLINEBOT](https://user-images.githubusercontent.com/120355106/207250162-4f76f053-dfab-4806-bc65-18e175e47670.png)
+
+![bot1](https://user-images.githubusercontent.com/120355106/208876376-494b9523-0ca3-4f5c-93a7-c63591e9e0de.png)
+
+![bot2](https://user-images.githubusercontent.com/120355106/208876423-e16547fe-055e-4f65-b55c-b5389a0f6b28.png)
+
+![bot3](https://user-images.githubusercontent.com/120355106/208876444-4ebb3d13-0f2e-4db5-8f32-dbfec0624545.png)
+
+![bot4](https://user-images.githubusercontent.com/120355106/208876477-0ea8bca8-ad81-4c14-a9c0-309ecc0fd4bd.png)
+
+------------------------------------------------------------------------------------------------------------------------------
+# Thank You...
+
+
 
